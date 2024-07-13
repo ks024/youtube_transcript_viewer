@@ -52,3 +52,6 @@ If you prefer to use the Docker image that has already been uploaded to Docker H
 #### Notes
 - Ensure Docker is installed and running on your machine before attempting to build and run the Docker image.
 - Adjust the Docker commands (`docker build`, `docker run`, `docker pull`) as necessary based on your specific setup and preferences.
+
+### Running without Docker
+If you prefer not to use Docker, you can run the Streamlit application directly using Python and streamlit run app.py. Ensure all dependencies are installed and a suitable Python environment is set up.
